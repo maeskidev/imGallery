@@ -1,4 +1,4 @@
-# Prueba tecnica Michael 👋
+# Practica tecnica 👋
 
 Se una expo para crear y levantar, ver el pakage.json por si algo, 
 
